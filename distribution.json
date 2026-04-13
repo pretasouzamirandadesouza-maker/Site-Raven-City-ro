@@ -1,0 +1,22 @@
+{
+  "links": {
+    "site": "https://pretasouzamirandadesouza-maker.github.io/Site-Raven-City-ro/",
+    "vk": "https://pretasouzamirandadesouza-maker.github.io/Site-Raven-City-ro/",
+    "discord": "https://discord",
+    "tiktok": "https://github.io",
+    "donate": "https://pretasouzamirandadesouza-maker.github.io/Site-Raven-City-ro/",
+    "forum_help": "https://pretasouzamirandadesouza-maker.github.io/Site-Raven-Ci",
+    "site_storage": "https://pretasouzamirandadesouza-maker.github.io/Site-Raven-C",
+    "site_news": "https://pretasouzamirandadesouza-maker.github.io/Site-Raven-City-"
+  },
+  "api_urls": {
+    "donate_api": "https://pretasouzamirandadesouza-maker.github.io/Site-Raven-City",
+    "news_api": "https://pretasouzamirandadesouza-maker.github.io/Site-Raven-City-ro",
+    "distribution": "https://dl.dropboxusercontent.com/scl/fi/w2p0pe346p1o98rrp9bj1/cache.zip?rlkey=scsvr2e3m75ma8jim4wlunkzs&st=o0y65fmn"
+  },
+  "app_info": {
+    "package_name": "com.touch.mobile.dark",
+    "project_name": "Raven City Roleplay",
+    "app_version": "0.0.16"
+  }
+}
