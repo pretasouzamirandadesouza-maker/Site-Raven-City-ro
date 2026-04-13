@@ -1,0 +1,14 @@
+{
+  "news": [
+    {
+      "title": "Servidor em Desenvolvimento",
+      "text": "Estamos trabalhando forte no projeto Raven City. Novidades em breve!",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "Atualização do Launcher",
+      "text": "Melhorias no launcher e correções de bugs.",
+      "date": "2026-04-10"
+    }
+  ]
+}
